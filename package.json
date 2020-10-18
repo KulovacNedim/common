@@ -1,0 +1,11 @@
+{
+  "name": "@wiseup/common",
+  "version": "1.0.0",
+  "description": "Reusabe code to support wiseup services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nedim Kulovac",
+  "license": "ISC"
+}
